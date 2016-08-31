@@ -4,10 +4,13 @@ Audio-reactive Typography w/ LASERS VJ tool, built in Processing
 ### Info
 BA 1. year course project at The Basel School of Design / Institute of Visual Communication for Intro to Interaction II. Please feel free to learn, remix, extend our source code and give credits where applicable.
 
+### Install
+- Download the Releases/Binaries for immediate use, or run the source code from Processing
+- Optional: Run LaserLetters_controller to see what is being sent to laser, or controll it if you have one with same setup!? (EtherDream DAC)
+
 ### Use
 - A-Z = Changes between sketches
 - SHIFT + A-Z = Change letter within sketch
-- 1-># = Change modes within sketch if available
 - Up/Down = adjust sound level sensitivity
 
 ### Tips
